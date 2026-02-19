@@ -1,1 +1,6 @@
-# quiz_cli_0219
+# Quiz CLI
+
+Savol-javob mini o‘yin.
+
+## Run
+python main.py
